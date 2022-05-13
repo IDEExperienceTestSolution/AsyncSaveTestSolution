@@ -1,0 +1,15 @@
+C:\Users\v-wangvino\source\repos\Test\ConsoleProject1\bin\Debug\net6.0\ConsoleProject1.exe
+C:\Users\v-wangvino\source\repos\Test\ConsoleProject1\bin\Debug\net6.0\ConsoleProject1.deps.json
+C:\Users\v-wangvino\source\repos\Test\ConsoleProject1\bin\Debug\net6.0\ConsoleProject1.runtimeconfig.json
+C:\Users\v-wangvino\source\repos\Test\ConsoleProject1\bin\Debug\net6.0\ConsoleProject1.dll
+C:\Users\v-wangvino\source\repos\Test\ConsoleProject1\bin\Debug\net6.0\ConsoleProject1.pdb
+C:\Users\v-wangvino\source\repos\Test\ConsoleProject1\obj\Debug\net6.0\ConsoleProject1.csproj.AssemblyReference.cache
+C:\Users\v-wangvino\source\repos\Test\ConsoleProject1\obj\Debug\net6.0\ConsoleProject1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-wangvino\source\repos\Test\ConsoleProject1\obj\Debug\net6.0\ConsoleProject1.AssemblyInfoInputs.cache
+C:\Users\v-wangvino\source\repos\Test\ConsoleProject1\obj\Debug\net6.0\ConsoleProject1.AssemblyInfo.cs
+C:\Users\v-wangvino\source\repos\Test\ConsoleProject1\obj\Debug\net6.0\ConsoleProject1.csproj.CoreCompileInputs.cache
+C:\Users\v-wangvino\source\repos\Test\ConsoleProject1\obj\Debug\net6.0\ConsoleProject1.dll
+C:\Users\v-wangvino\source\repos\Test\ConsoleProject1\obj\Debug\net6.0\refint\ConsoleProject1.dll
+C:\Users\v-wangvino\source\repos\Test\ConsoleProject1\obj\Debug\net6.0\ConsoleProject1.pdb
+C:\Users\v-wangvino\source\repos\Test\ConsoleProject1\obj\Debug\net6.0\ConsoleProject1.genruntimeconfig.cache
+C:\Users\v-wangvino\source\repos\Test\ConsoleProject1\obj\Debug\net6.0\ref\ConsoleProject1.dll
